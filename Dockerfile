@@ -3,6 +3,8 @@ MAINTAINER FengYu <yu.feng@shifudao.com>
 
 ENV NEXUS_VERSION 3.1.0-04
 
+#ENV NEXUS_VERSION=3.2.1-01
+
 ENV SONATYPE_DIR /opt/sonatype
 ENV NEXUS_HOME ${SONATYPE_DIR}/nexus
 ENV NEXUS_DATA /nexus-data
